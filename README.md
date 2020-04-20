@@ -1,6 +1,6 @@
 # Практична робота "Ідентифікатори, ключові слова, типи даних"
 Цей репозиторій містить даграму класів зроблену на основі обраного завдання та іншу інформацію про нього.
-<img src="https://github.com/ppc-ntu-khpi/identifikatori-tipi-34-idjis/blob/master/dg.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/identifikatori-tipi-34-idjis/blob/master/dg.PNG" width="100%"/>
 ## В рамках практичної роботи було зроблено наступне:
 1. Модифікація стартового коду (метод "Calculate" класу "Exercise") у відповідності до обраного завдання.
 2. Скориговано метод "main" класу "TestResult" у відповідності до обаного завдання.
