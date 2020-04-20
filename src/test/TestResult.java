@@ -3,14 +3,14 @@ package test;
 import java.util.Scanner;
 import domain.Exercise;
 /**
- * Містить реалізацію виводу результатів
+ * Contains implementation of output of results
  * @author IT-Service
  */
 public class TestResult {
 	private static Scanner input;
 	/**
-	 * Метод який містить вивід результатів методу isPalindrome
-	 * @param args - містить аргументи що надаються
+	 * A method that contains the output of the Calculate method
+	 * @param args - contains the arguments provided
 	 */
 	public static void main(String [] args){
 		input = new Scanner(System.in);

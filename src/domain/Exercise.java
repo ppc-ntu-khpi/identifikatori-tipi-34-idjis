@@ -1,14 +1,14 @@
 package domain;
 /**
- * Містить реалізацію методу
+ * Contains the implementation of the method
  * @author IT-Service
  */
 public class Exercise {
 	/**
-	 * Метод що містить реалізацію заданої задачі
+	 * A method containing the implementation of a given task
 	 * @param original
-	 * @return true - поверне программа якщо ведені дані будуть відповідати заданій умові
-	 * @return false - поверне якщо дані не будуть відповідати заданій умові
+	 * @return true - the program will return if the driven data will meet the specified condition
+	 * @return false - will return if the data does not meet the specified condition
 	 */
     public boolean isPalindrome(String original){
         int i = original.length()-1;
