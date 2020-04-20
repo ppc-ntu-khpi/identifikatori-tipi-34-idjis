@@ -16,9 +16,9 @@ public class TestResult {
 		input = new Scanner(System.in);
 		System.out.print("Input name: ");
 		String text = input.nextLine();
-		text = text.replaceAll("[^A-Za-zÀ-ßà-ÿ0-9]", "");
+		text = text.replaceAll("[^A-Za-zÃ€-ÃŸÃ -Ã¿0-9]", "");
 		Exercise res = new Exercise();
-		if(res.isPalindrome(text)){
+		if(res.Calculate(text)){
 		    System.out.println(text + " - Palindrome");
 		} else {
 		    System.out.println(text + " - Not a Palindrome");
