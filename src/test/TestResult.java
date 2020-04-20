@@ -6,7 +6,7 @@ import domain.Exercise;
  * Contains implementation of output of results
  * @author IT-Service
  */
-public class TestResult {
+public class TestResult extends Exercise{
 	private static Scanner input;
 	/**
 	 * A method that contains the output of the Calculate method
